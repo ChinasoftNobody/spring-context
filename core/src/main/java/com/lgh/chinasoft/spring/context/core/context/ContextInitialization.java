@@ -3,7 +3,7 @@ package com.lgh.chinasoft.spring.context.core.context;
 /**
  * Created by Administrator on 2017/7/11.
  */
-public class ContextIniter {
+public class ContextInitialization {
 
     private static Context context;
 
